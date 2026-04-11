@@ -5,7 +5,7 @@ This repository contains all assigned tasks and projects completed during my AI/
 
 This repository contains the tasks and projects completed during my AI/ML Engineering Internship at DevelopersHub Corporation. The goal of this internship is to build a strong foundation in data science, machine learning models, and prompt engineering.
 
-## 🚀 Tasks Completed
+##  Tasks Completed
 
 ### Task 1: Exploring and Visualizing the Iris Dataset
 * **Objective:** Perform Exploratory Data Analysis (EDA) on the classic Iris dataset.
@@ -22,7 +22,7 @@ This repository contains the tasks and projects completed during my AI/ML Engine
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Environment:** VS Code / Jupyter Notebook
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, yfinance
