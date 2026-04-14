@@ -19,13 +19,17 @@ This repository contains the tasks and projects completed during my AI/ML Engine
 * **Key Achievements:** * Implemented data shifting logic (`.shift(-1)`) to ensure real future price prediction.
     * Achieved a high R-squared score of 0.99.
     * Visualized Actual vs Predicted trends using line charts.
+ 
 
+Task 4: AI Health Assistant
+* **Objective:** Built an interactive chatbot using Google Gemini API for wellness advice.
+* **Tools:** Python, Google GenAI SDK.
+* **Key Features:** Applied Prompt Engineering for a professional persona and integrated "Assalam-o-Alaikum" greetings.
 ---
 
 ##  Tech Stack
 * **Language:** Python
 * **Environment:** VS Code / Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, yfinance
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, yfinance, google-genai
 
----
-*Internship ongoing - More tasks to be added soon!*
+
