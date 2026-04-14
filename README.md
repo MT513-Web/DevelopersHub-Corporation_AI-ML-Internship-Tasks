@@ -21,7 +21,7 @@ This repository contains the tasks and projects completed during my AI/ML Engine
     * Visualized Actual vs Predicted trends using line charts.
  
 
-Task 4: AI Health Assistant
+### Task 4: AI Health Assistant
 * **Objective:** Built an interactive chatbot using Google Gemini API for wellness advice.
 * **Tools:** Python, Google GenAI SDK.
 * **Key Features:** Applied Prompt Engineering for a professional persona and integrated "Assalam-o-Alaikum" greetings.
