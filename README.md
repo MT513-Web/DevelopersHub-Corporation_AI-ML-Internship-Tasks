@@ -25,6 +25,16 @@ This repository contains the tasks and projects completed during my AI/ML Engine
 * **Objective:** Built an interactive chatbot using Google Gemini API for wellness advice.
 * **Tools:** Python, Google GenAI SDK.
 * **Key Features:** Applied Prompt Engineering for a professional persona and integrated "Assalam-o-Alaikum" greetings.
+
+  ##  How to Run This Project Locally
+
+To protect sensitive information, I have used environment variables. Follow these steps to set up the project on your machine:
+
+1. **Clone the repository** to your local system.
+2. **Create a `.env` file** in the root directory of the project.
+3. **Add your API key** inside the `.env` file like this:
+   ```env
+   GOOGLE_API_KEY=your_actual_api_key_here
 ---
 
 ##  Tech Stack
