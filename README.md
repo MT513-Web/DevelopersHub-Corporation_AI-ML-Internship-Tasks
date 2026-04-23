@@ -35,6 +35,12 @@ To protect sensitive information, I have used environment variables. Follow thes
 3. **Add your API key** inside the `.env` file like this:
    ```env
    GOOGLE_API_KEY=your_actual_api_key_here
+
+
+### Task 5: House Price Prediction
+**Objective:** Predict house prices using the California Housing dataset.
+**Tools:** Python, Pandas, Scikit-Learn.
+* **Key Achievements:** Built a machine learning pipeline, performed data preprocessing and feature scaling, and optimized model performance by comparing Linear Regression and Random Forest Regressor, resulting in a significant reduction in prediction error (RMSE).
 ---
 
 ##  Tech Stack
