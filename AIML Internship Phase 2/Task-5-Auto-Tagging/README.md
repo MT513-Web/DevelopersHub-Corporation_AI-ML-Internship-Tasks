@@ -31,5 +31,11 @@ In a real-world customer support environment, manually sorting thousands of tick
 
 ---
 
+5. ## Project Demo Video
+The project demonstration video (`Demo_video_task_5.mp4`) is uploaded directly to this repository. 
+Due to GitHub's file size view limits, please click the **Download** button (or "View Raw") to download and watch the live system demo.
+
+---
+
 ##  Important Note on API Limits
 **Optimized Execution:** To respect the **Gemini Free Tier** daily quota, some redundant test calls in Step 3 were kept for reference but not executed in the final batch run. This optimization ensures that the core batch processing (Step 4) has enough quota to complete successfully without hitting rate limits.
