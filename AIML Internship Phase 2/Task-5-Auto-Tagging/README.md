@@ -31,7 +31,7 @@ In a real-world customer support environment, manually sorting thousands of tick
 
 ---
 
-5. ## Project Demo Video
+## Project Demo Video
 The project demonstration video (`Demo_video_task_5.mp4`) is uploaded directly to this repository. 
 Due to GitHub's file size view limits, please click the **Download** button (or "View Raw") to download and watch the live system demo.
 
