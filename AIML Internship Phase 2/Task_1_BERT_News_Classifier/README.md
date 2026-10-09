@@ -31,3 +31,9 @@ Due to GitHub file size limits, model weights (~420MB) are hosted externally:
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Run the Application
+```bash
+streamlit run app.py
+```
