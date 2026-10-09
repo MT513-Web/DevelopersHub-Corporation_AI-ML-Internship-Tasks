@@ -25,7 +25,7 @@ This project implements a production-grade news classification dashboard using f
 
 ### 1. Download Model Weights
 Due to GitHub file size limits, model weights (~420MB) are hosted externally:
-* **Download Link:** [Google Drive Link](https://drive.google.com/open?id=1s_jaTA_7LvUbkE-EASBdh4ITjSakDily&usp=drive_fs)
+* **Download Link:** [Download Model Weights from Google Drive](https://drive.google.com/file/d/1s_jaTa_7LvUbkE-EASBdh4lTjSakDiLy/view?usp=drive_link)
 * **Instruction:** Extract folder `news_classifier_bert_v1` into the project root directory.
 
 ### 2. Install Dependencies
